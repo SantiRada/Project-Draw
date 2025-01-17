@@ -1,0 +1,11 @@
+# ninja log v5
+20	1710	7587678946894517	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2c1ffbe600dce143
+41	1820	7587678948260872	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	be6c8972b2316797
+60	1918	7587678949278396	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	54e7543bf2586e09
+12	1968	7587678949822281	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	62c7a87c4f9ea776
+1821	2085	7587678951153838	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2cdc97ffae645d92
+28	2224	7587678952460344	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	29c19dc22f3f2dda
+2	2372	7587678954046415	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f933ee74bb9d9964
+2086	2432	7587678953677372	D:/Documentos/GitHub/Unity/Lightween - Draw Pumkpin/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1j1u2n23/obj/armeabi-v7a/libswappywrapper.so	e27d54fa9ceb2f79
+1713	2953	7587678959878651	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c482c5a3fba0a5e1
+2953	3222	7587678961859273	D:/Documentos/GitHub/Unity/Lightween - Draw Pumkpin/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1j1u2n23/obj/armeabi-v7a/libgame.so	904ca77f68ae158e
